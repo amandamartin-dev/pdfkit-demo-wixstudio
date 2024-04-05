@@ -1,5 +1,5 @@
 # pdfkit-demo-wixstudio
-This repo is the code companion to a YouTube tutorial of installing and setting up pdfkit on a Wix Studio site
+This repo is the code companion to a [YouTube tutorial](https://youtu.be/BdRHzlR46Xg) of installing and setting up [PDFKit](https://pdfkit.org/docs/getting_started.html) on a Wix Studio site
 
 This code requires a free or premium Wix Studio site with dev mode enabled.
 
